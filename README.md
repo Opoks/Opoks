@@ -41,6 +41,15 @@ I enjoy turning ideas into interactive, accessible, and user-friendly websites.
 
 ## 📌 Featured Projects  
 
+
+### [Portfolio Website](https://github.com/Opoks/portfolio)
+📂 **Tech stack:** React, CSS  
+- Personal portfolio site showcasing my projects and skills.  
+- Responsive design with smooth navigation.  
+🔗 [Live Demo](https://johnopoku.netlify.app)
+
+---
+
 ### 🛒 [ShopPractice](https://github.com/Opoks/shoppractice)
 E-commerce web app with:
 - Product fetching from API  
@@ -64,6 +73,14 @@ To-do app with:
 - Add, edit, and delete tasks  
 - LocalStorage data persistence  
 [🔗 Live Demo](https://tins2do.netlify.app)  
+
+---
+
+### 🎂 [BirthCalc](https://github.com/Opoks/birthcalc)
+📂 **Tech stack:** HTML, CSS, JavaScript  
+- Birthday calculator to find age and next birthday.  
+- Accurate date calculations and mobile-friendly layout.
+[🔗 Live Demo](https://birthcalc.netlify.app)
 
 ---
 
