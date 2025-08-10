@@ -42,7 +42,7 @@ I enjoy turning ideas into interactive, accessible, and user-friendly websites.
 ## 📌 Featured Projects  
 
 
-### [Portfolio Website](https://github.com/Opoks/portfolio)
+### [Portfolio Website](https://github.com/Opoks/johnopoku)
 
 - Personal portfolio site showcasing my projects and skills.  
 - Responsive design with smooth navigation.
@@ -51,7 +51,7 @@ I enjoy turning ideas into interactive, accessible, and user-friendly websites.
 
 ---
 
-### 🛒 [ShopPractice](https://github.com/Opoks/shoppractice)
+### 🛒 [ShopPractice](https://github.com/Opoks/shop)
 E-commerce web app with:
 - Product fetching from API  
 - Global state management with Redux  
