@@ -43,10 +43,11 @@ I enjoy turning ideas into interactive, accessible, and user-friendly websites.
 
 
 ### [Portfolio Website](https://github.com/Opoks/portfolio)
-📂 **Tech stack:** React, CSS  
+
 - Personal portfolio site showcasing my projects and skills.  
-- Responsive design with smooth navigation.  
-🔗 [Live Demo](https://johnopoku.netlify.app)
+- Responsive design with smooth navigation.
+  
+[🔗Live Demo](https://johnopoku.netlify.app)
 
 ---
 
@@ -77,9 +78,10 @@ To-do app with:
 ---
 
 ### 🎂 [BirthCalc](https://github.com/Opoks/birthcalc)
-📂 **Tech stack:** HTML, CSS, JavaScript  
+Age calculator with:
 - Birthday calculator to find age and next birthday.  
 - Accurate date calculations and mobile-friendly layout.
+  
 [🔗 Live Demo](https://birthcalc.netlify.app)
 
 ---
