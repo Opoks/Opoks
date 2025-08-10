@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💻 **Frontend Developer** | React, JavaScript, Tailwind CSS  
 📍 Based in Accra, Ghana  
-🌐 [Portfolio Website](https://johnopoku.netlify.app) | [LinkedIn](https://linkedin.com/in/john-opoku) | [GitHub](https://github.com/Opoks)  
+🌐 [Portfolio Website](https://johnopoku.netlify.app) | [LinkedIn](https://linkedin.com/in/john-opoku-97352428b) | [GitHub](https://github.com/Opoks)  
 
 ---
 
@@ -46,7 +46,7 @@ E-commerce web app with:
 - Product fetching from API  
 - Global state management with Redux  
 - Responsive UI with Tailwind CSS  
-[🔗 Live Demo](#)  
+[🔗 Live Demo](https://shoppractice.netlify.app)  
 
 ---
 
@@ -55,7 +55,7 @@ Quiz application with:
 - Admin features for adding, editing, deleting questions  
 - Secure admin login  
 - User score tracking and mistake review  
-[🔗 Live Demo](#)  
+[🔗 Live Demo](https://quizron.netlify.app)  
 
 ---
 
@@ -63,7 +63,7 @@ Quiz application with:
 To-do app with:
 - Add, edit, and delete tasks  
 - LocalStorage data persistence  
-[🔗 Live Demo](#)  
+[🔗 Live Demo](https://tins2do.netlify.app)  
 
 ---
 
