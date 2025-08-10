@@ -52,7 +52,7 @@ E-commerce web app with:
 
 ### 🎯 [Quizron](https://github.com/Opoks/quizron)
 Quiz application with:
-- Admin dashboard for adding, editing, deleting questions  
+- Admin features for adding, editing, deleting questions  
 - Secure admin login  
 - User score tracking and mistake review  
 [🔗 Live Demo](#)  
@@ -69,6 +69,6 @@ To-do app with:
 
 ## 📫 How to Reach Me  
 📧 **Email:** opokuj883@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/john-opoku](https://linkedin.com/in/john-opoku)  
+💼 **LinkedIn:** [linkedin.com/in/john-opoku](https://linkedin.com/in/john-opoku-97352428b)  
 
 ---
