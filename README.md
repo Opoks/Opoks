@@ -62,7 +62,7 @@ I enjoy turning ideas into functional products using modern frontend and backend
 - Google authentication for secure login  
 - Users can search and join groups
 
-  [Live Demo](https://chatinpal.netlify.app)
+[Live Demo](https://chatinpal.netlify.app)
 
 ---
 
