@@ -58,7 +58,6 @@ I enjoy turning ideas into functional products using modern frontend and backend
 - Users can search and join groups
 
 [Live Demo](https://chatinpal.netlify.app)
-
 ---
 
 ### 🛒 ShopPractice – E-commerce Application  
