@@ -1,93 +1,106 @@
+# 👋 Hi, I’m John Opoku
 
+🚀 Web Developer | BSc Information Technology  
+📍 Accra, Ghana  
 
-<!--
-**Opoks/Opoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm John Opoku
-
-💻 **Frontend Developer** | React, JavaScript, Tailwind CSS  
-📍 Based in Accra, Ghana  
-🌐 [Portfolio Website](https://johnopoku.netlify.app) | [LinkedIn](https://linkedin.com/in/john-opoku-97352428b) | [GitHub](https://github.com/Opoks)  
+I’m a self-driven web developer passionate about building **responsive, user-friendly, and scalable web applications**.  
+I enjoy turning ideas into functional products using modern frontend and backend technologies.
 
 ---
 
-## 🚀 About Me  
-I’m a passionate frontend developer with a Bachelor’s degree in Information Technology from Ghana Communication Technology University.  
-I enjoy turning ideas into interactive, accessible, and user-friendly websites.  
+## 🧑‍💻 About Me
+- 🎓 BSc Information Technology – Ghana Communication Technology University  
+- 💻 Strong focus on **Frontend & Backend Web Development**  
+- 🔐 Experienced in handling **secure and sensitive data** (hospital management systems)  
+- 🌱 Always learning and improving my backend and system design skills  
+- 🇬🇭 Based in Accra, Ghana  
 
 ---
 
-## 🛠 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- PHP
+- REST API Development
+- CRUD Operations
+
+### Database & Services
+- MySQL (mysql2)
+- Firebase
+
+### Tools
+- Git & GitHub
+- API Integration
+- Responsive Design
+- Local Storage
+- Cross-Browser Compatibility
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
+### 🌐 Portfolio Website  
+**Tech:** React, Tailwind CSS  
+- Personal portfolio showcasing my projects and skills  
+- Fully responsive, mobile-first design  
 
-### [Portfolio Website](https://github.com/Opoks/johnopoku)
-
-- Personal portfolio site showcasing my projects and skills.  
-- Responsive design with smooth navigation.
-  
-[🔗Live Demo](https://johnopoku.netlify.app)
-
----
-
-### 🛒 [ShopPractice](https://github.com/Opoks/shop)
-E-commerce web app with:
-- Product fetching from API  
-- Global state management with Redux  
-- Responsive UI with Tailwind CSS  
-[🔗 Live Demo](https://shoppractice.netlify.app)  
+🔗 Live: https://johnopoku.netlify.app  
 
 ---
 
-### 🎯 [Quizron](https://github.com/Opoks/quizron)
-Quiz application with:
-- Admin features for adding, editing, deleting questions  
-- Secure admin login  
-- User score tracking and mistake review  
-[🔗 Live Demo](https://quizron.netlify.app)  
+### 💬 Chatinpal – Chat Application  
+**Tech:** React, Tailwind CSS, Firebase  
+- Real-time group chat application  
+- Messages can be deleted by the sender  
+- Google authentication for secure login  
+- Users can search and join groups  
 
 ---
 
-### 🗒 [Tins2Do](https://github.com/Opoks/tins2do)
-To-do app with:
-- Add, edit, and delete tasks  
-- LocalStorage data persistence  
-[🔗 Live Demo](https://tins2do.netlify.app)  
+### 🛒 ShopPractice – E-commerce Application  
+**Tech:** React, Tailwind CSS, API Integration  
+- E-commerce cart system with Redux state management  
+- Product API integration for real-time data  
+- Responsive UI for mobile and desktop  
 
 ---
 
-### 🎂 [BirthCalc](https://github.com/Opoks/birthcalc)
-Age calculator with:
-- Birthday calculator to find age and next birthday.  
-- Accurate date calculations and mobile-friendly layout.
-  
-[🔗 Live Demo](https://birthcalc.netlify.app)
+### 🍽️ Recippo – Recipe Application  
+**Tech:** React, Tailwind CSS, API Integration  
+- Recipe search app (e.g. banana-based meals)  
+- Displays ingredients and food details  
+- Error handling and responsive user experience  
 
 ---
 
-## 📫 How to Reach Me  
-📧 **Email:** opokuj883@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/john-opoku](https://linkedin.com/in/john-opoku-97352428b)  
+### ⚙️ Backend CRUD API  
+**Tech:** Node.js, Express.js, MySQL (mysql2)  
+- RESTful API with CRUD operations  
+- MySQL database integration using mysql2  
+- Structured API responses and request validation  
 
 ---
+
+## 📊 GitHub Stats
+_(GitHub auto-updates this section)_
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Opoks&show_icons=true&theme=default)
+
+---
+
+## 🔗 Connect With Me
+- 🌐 Portfolio: https://johnopoku.netlify.app  
+- 🐙 GitHub: https://github.com/Opoks  
+- 💼 LinkedIn: https://www.linkedin.com/in/john-opoku-97352428b  
+- 📧 Email: johnopoku.dev@gmail.com  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
