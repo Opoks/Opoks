@@ -60,7 +60,9 @@ I enjoy turning ideas into functional products using modern frontend and backend
 - Real-time group chat application  
 - Messages can be deleted by the sender  
 - Google authentication for secure login  
-- Users can search and join groups  
+- Users can search and join groups
+
+  [Live Demo](https://chatinpal.netlify.app)
 
 ---
 
@@ -70,6 +72,7 @@ I enjoy turning ideas into functional products using modern frontend and backend
 - Product API integration for real-time data  
 - Responsive UI for mobile and desktop  
 
+[Live Demo](https://shoppractice.netlify.app)
 ---
 
 ### 🍽️ Recippo – Recipe Application  
@@ -78,6 +81,7 @@ I enjoy turning ideas into functional products using modern frontend and backend
 - Displays ingredients and food details  
 - Error handling and responsive user experience  
 
+[Live Demo](https://recippo.netlify.app)
 ---
 
 ### ⚙️ Backend CRUD API  
